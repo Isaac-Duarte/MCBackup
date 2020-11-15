@@ -1,0 +1,13 @@
+{
+    "BackupFolderLocation": "backups",
+    "TempFileLocation": "/home/user",
+    "SSHConfig": {
+        "Host": "******",
+        "Port": "******",
+        "UserName": "******",
+        "Password": "******"
+    },
+    "BackupFolders": [
+        "******"
+    ]
+}
